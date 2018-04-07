@@ -1,3 +1,13 @@
+# BILAN
+
+## Cas étudié
+Transfert direct de Github à Heroku 
+CONS
+* Redis inclus =>plante au démarrage en l'absence de carte bleue sur Heroku
+* opérations à faire en ligne de commande => impose installation du client heroku !
+
+
+# DOCUMENTATION ORIGINALE
 
 ## Heroku Laravel Example
 
